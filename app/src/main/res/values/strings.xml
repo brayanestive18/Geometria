@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Geometría</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="circulo">Círculo</string>
+    <string name="triangulo">Triángulo</string>
+    <string name="cubo">Cubo</string>
+    <string name="lado">Lado (cm):</string>
+    <string name="elado">Ingrese lado en cm</string>
+    <string name="radio">Radio (cm):</string>
+    <string name="eRadio">Ingrese radio en cm</string>
+    <string name="calcular">Calcular</string>
+    <string name="ladoA">Lado A (cm):</string>
+    <string name="ladoB">Lado B (cm):</string>
+    <string name="ladoC">Lado C (cm):</string>
+    <string name="eLadoA">Ingrese el Lado A en cm</string>
+    <string name="eLadoB">Ingrese el Lado B en cm</string>
+    <string name="eLadoC">Ingrese el Lado C en cm</string>
+</resources>
